@@ -1,11 +1,5 @@
 package com.patronesdiseno.estructurales.bridge.ejemplo2;
 
-import com.patronesdiseno.estructurales.bridge.ejemplo1.abstracciones.Destornillador;
-import com.patronesdiseno.estructurales.bridge.ejemplo1.abstracciones.Herramienta;
-import com.patronesdiseno.estructurales.bridge.ejemplo1.abstracciones.Martillo;
-import com.patronesdiseno.estructurales.bridge.ejemplo1.implementaciones.IImplementacion;
-import com.patronesdiseno.estructurales.bridge.ejemplo1.implementaciones.ImplementacionMartilloMona;
-import com.patronesdiseno.estructurales.bridge.ejemplo1.implementaciones.ImplementacionMartilloHierro;
 import com.patronesdiseno.estructurales.bridge.ejemplo2.abstracciones.Circulo;
 import com.patronesdiseno.estructurales.bridge.ejemplo2.abstracciones.Cuadrado;
 import com.patronesdiseno.estructurales.bridge.ejemplo2.abstracciones.Forma;
